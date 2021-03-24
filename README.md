@@ -53,10 +53,10 @@ The School Board discovered that the dataset analyzed, students_complete.csv fil
 
  - **How does replacing the ninth-grade scores affect the following:**
  
-    -Math and reading scores by grade
-    -Scores by school spending
-    -Scores by school size
-    -Scores by school type
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
     
     As can be seen in the images of data analysis results below, the difference in results is minimal.
     
