@@ -26,7 +26,7 @@ The School Board discovered that the dataset analyzed, students_complete.csv fil
 
 ## Results
 
-- **How is the district summary affected?
+- **How is the district summary affected?**
 
   The affect of replacing the ninth grade math and reading scores at Thomas High School with NaN(Null) was very minimal as can be seen in the following images.
   
@@ -38,7 +38,7 @@ The School Board discovered that the dataset analyzed, students_complete.csv fil
   
   <img width="743" alt="District_Summary_Original" src="https://user-images.githubusercontent.com/78699465/112380230-8997c800-8cbf-11eb-849d-34f773b23895.png">
 
-- **How is the school summary affected?
+- **How is the school summary affected?**
 
   Again, the results had a minimal affect on the school summary since only the scores for Thomas High School were replaced. So, the only school to see any change was Thomas     High School. The data remained unchanged for all other schools. 
   
@@ -51,7 +51,7 @@ The School Board discovered that the dataset analyzed, students_complete.csv fil
   <img width="589" alt="THS_Original" src="https://user-images.githubusercontent.com/78699465/112385327-dc747e00-8cc5-11eb-8456-d3fc3656983e.png">
  
 
- - **How does replacing the ninth-grade scores affect the following:
+ - **How does replacing the ninth-grade scores affect the following:**
  
     -Math and reading scores by grade
     -Scores by school spending
