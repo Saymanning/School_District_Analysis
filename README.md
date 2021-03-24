@@ -3,7 +3,8 @@
 ## Overview
 
 ### Original Analysis
-*The following deliverables were provided in an Analysis requested by the school distict:*
+*The following deliverables were provided in an Analysis requested by the school distict:
+
 -A high-level snapshot of the district's key metrics, presented in a table format
 -An overview of the key metrics for each school, presented in a table format
 -Tables presenting each of the following metrics:
