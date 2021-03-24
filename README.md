@@ -40,7 +40,7 @@ The School Board discovered that the dataset analyzed, students_complete.csv fil
 
 - **How is the school summary affected?
 
-  Again, the results had a minimal affect on the school summary since only the scores for Thomas High School were replaced. So, the only school to see any change was Thomas High   School. The data remained unchanged for all other schools. 
+  Again, the results had a minimal affect on the school summary since only the scores for Thomas High School were replaced. So, the only school to see any change was Thomas     High School. The data remained unchanged for all other schools. 
   
   Thomas High School Data After Analysis Rerun:
   
