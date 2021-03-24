@@ -4,7 +4,7 @@
 
 ### Original Analysis
 The purpose of the original School District Analysis was to provide data on the performance trends of reading and math standardized test data across 15 high schools to The School Board.
-The following deliverables were provided in the analysis:
+The following deliverables were provided in the original analysis:
 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
@@ -21,7 +21,6 @@ The School Board discovered that the dataset analyzed, students_complete.csv fil
 
 
 ## Results
-Using bulleted lists and images of DataFrames as support, address the following questions.
 
 - How is the district summary affected?
 - How is the school summary affected?
